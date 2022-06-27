@@ -1,6 +1,6 @@
 # <center>SEED</center>
 
-![image](SEteamD/index_screen.png)
+![image](SEteamD/src/main/webapp/assets/img/header-bg.jpg)
 
 ### ✔ 개요
 경기대학교 소프트웨어 공학 team D<br>
