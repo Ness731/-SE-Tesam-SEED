@@ -1,5 +1,6 @@
 # <center>SEED</center>
 
+![image](SEteamD/src/main/webapp/assets/img/navbar-logo.png)
 ![image](SEteamD/src/main/webapp/assets/img/header-bg.jpg)
 
 ### ✔ 개요
